@@ -6,10 +6,10 @@ Fullstack Developer | Soccer Enthusiast
 
 I am a passionate Fullstack Developer currently working at Frugal Innovation Hub. Love coding and playing soccer. Always happy to learn something new everyday :)
 
-* 🌍  I'm based in Santa Clara, CA
+* 🌍  I'm based in San Jose, CA
 * 🖥️  See my portfolio at [Website](http://bevanjacinto.github.io)
 * ✉️  You can contact me at [bevanjacinto98@gmail.com](mailto:bevanjacinto98@gmail.com)
-* 🧠  I'm learning React, Flutter, Tailwind CSS
+* 🧠  I'm learning Spring Boot, Spring Data JPA, Angular, Tailwind CSS 
 * 🤝  I'm open to collaborating on Anything React, building fullstack or cross platform applications.
 
 ### Skills
