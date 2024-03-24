@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer | Soccer Enthusiast
 ---------------------------------------
 
-I am a passionate Fullstack Developer currently working at Frugal Innovation Hub. Love coding and playing soccer. Always happy to learn something new everyday :)
+I am a passionate Fullstack Developer currently working at Northern Trust. Love coding and playing soccer. Always happy to learn something new everyday :)
 
 * 🌍  I'm based in San Jose, CA
 * 🖥️  See my portfolio at [Website](http://bevanjacinto.github.io)
