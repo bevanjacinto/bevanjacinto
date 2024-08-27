@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer | Soccer Enthusiast
 ---------------------------------------
 
-I am a passionate Fullstack Developer currently working at Northern Trust. Love coding and playing soccer. Always happy to learn something new everyday :)
+I am a passionate Fullstack Developer looking for opportunities in the field of software development. Love coding and playing football. Always happy to learn something new everyday :)
 
-* 🌍  I'm based in San Jose, CA
-* ✉️  You can contact me at [bevanjacinto98@gmail.com](mailto:bevanjacinto98@gmail.com)
+* 🌍  I'm based in Mumbai, MH
+* ✉️  You can contact me at [bevanjacinto@gmail.com](mailto:bevanjacinto@gmail.com)
 * 🧠  I'm learning Spring Boot, Spring Data JPA, Angular, Tailwind CSS 
-* 🤝  I'm open to collaborating on Anything React, building fullstack or cross platform applications.
+* 🤝  I'm open to collaborating on Anything React, Angular and building fullstack or cross platform applications.
 
 ### Skills
 
