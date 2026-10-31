@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bevan Jacinto
 =====================================================================================================================================
 
-Fullstack Developer | Soccer Enthusiast
+Ai Engineer | Soccer Enthusiast
 ---------------------------------------
 
-I am a passionate Fullstack Developer looking for opportunities in the field of software development. Love coding and playing football. Always happy to learn something new everyday :)
+I am a passionate Ai Engineer looking for opportunities in the field of software development. Love coding and playing football. Always happy to learn something new everyday :)
 
 * 🌍  I'm based in Mumbai, MH
 * ✉️  You can contact me at [bevanjacinto@gmail.com](mailto:bevanjacinto@gmail.com)
-* 🧠  I'm learning Spring Boot, Spring Data JPA, Angular, Tailwind CSS 
-* 🤝  I'm open to collaborating on Anything React, Angular and building fullstack or cross platform applications.
+* 🧠  I'm learning MAF, Prompt Optimization, MLOps, AWS Sagemaker 
+* 🤝  I'm open to collaborating on AI, Agentic and building full scale artificial intelligence applications or generative AI solutions.
 
 ### Skills
 
